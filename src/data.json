@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Dr. Radha Krishna",
+    "specialty": "Cardiology",
+    "availability": "10 AM",
+    "cost_per_appointment": 1500,
+    "exp": "5",
+    "appoint_availble": true,
+    "degree": "MBBS"
+  },
+  {
+    "name": "Dr. Kanchana Borado ",
+    "specialty": "Dermatology",
+    "availability": "11 AM",
+    "cost_per_appointment": 1800,
+    "exp": "7",
+    "appoint_availble": true,
+    "degree": "MBBS, MS"
+  },
+  {
+    "name": "Dr. Venkata Raju",
+    "specialty": "Pediatrics",
+    "availability": "10:30 AM",
+    "cost_per_appointment": 1000,
+    "exp": "4",
+    "appoint_availble": false,
+    "degree": "MBBS, MCH"
+  },
+  {
+    "name": "Dr. Harsha Malhotra",
+    "specialty": "Orthopedics",
+    "availability": "4:30 PM",
+    "cost_per_appointment": 2000,
+    "exp": "9",
+    "appoint_availble": true,
+    "degree": "MBBS, MD"
+  },
+  {
+    "name": "Dr. Mukesh Sharma",
+    "specialty": "Ophthalmology",
+    "availability": "3:00 PM",
+    "cost_per_appointment": 3000,
+    "exp": "11",
+    "appoint_availble": true,
+    "degree": "MBBS, Orthopedics"
+  },
+  {
+    "name": "Dr. Rama Krishna",
+    "specialty": "Neurology",
+    "availability": "6:00 PM",
+    "cost_per_appointment": 1000,
+    "exp": "3",
+    "appoint_availble": true,
+    "degree": "MBBS, Senior consultant"
+  }
+]
